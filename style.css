@@ -1,0 +1,32 @@
+h1{
+    color: antiquewhite;
+    font-size: 50px;
+}
+p{
+    color:burlywood;
+    font-size: 25px;
+}
+*{
+    margin: 20px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    background-color:black;
+}
+.btn{
+    background-color:brown;
+    border: none;
+    color:beige;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: 2px solid aliceblue;
+}
+.bg{
+    background-image:url("https://media.istockphoto.com/id/1204740322/photo/cpu.jpg?s=1024x1024&w=is&k=20&c=YqDn1SVkePGN0X0Noc_Lwaxe_9N6CUhaAzvPhKW9Gpc=")
+    background-size: cover;
+}
